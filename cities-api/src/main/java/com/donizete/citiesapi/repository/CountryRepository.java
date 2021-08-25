@@ -1,4 +1,7 @@
 package com.donizete.citiesapi.repository;
 
-public interface CountryRepository {
+import com.donizete.citiesapi.Country.Country;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CountryRepository extends JpaRepository<Country, Long> {
 }
