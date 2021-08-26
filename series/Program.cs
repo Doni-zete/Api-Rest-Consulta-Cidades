@@ -2,11 +2,16 @@
 
 namespace series
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+
+      EntidadeBase minhaClasse = new EntidadeBase();
+      Serie meuObjeto = new Serie();
+
+        
+      Console.WriteLine("Hello World!");
     }
+  }
 }
