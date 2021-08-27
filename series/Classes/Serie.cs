@@ -10,6 +10,8 @@ namespace series
     private string Descricao { get; set; }
     private int Ano { get; set; }
 
+    private bool Excluido {get; set;}
+
 
     //Metodos
     public Serie(int id, Genero genero, string titulo, string decricao, int ano)
@@ -18,6 +20,7 @@ namespace series
       this.Genero = genero;
       this.Descricao = decricao;
       this.Ano = ano;
+      this.Excluido = false;
     }
     public override string ToString()
 //Environment.NewLine https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline?view=netcore-3.1
@@ -36,6 +39,15 @@ namespace series
     public int retornaId()
     {
       return this.Id;
+    }
+
+    public void Excluir(){
+      this.Excluido =true;
+    }
+
+    public static implicit operator Serie(SerieRepositotio v)
+    {
+      throw new NotImplementedException();
     }
   }
 }

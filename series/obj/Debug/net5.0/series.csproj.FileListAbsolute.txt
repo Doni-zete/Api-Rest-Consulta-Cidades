@@ -1,0 +1,5 @@
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.csproj.AssemblyReference.cache
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.AssemblyInfoInputs.cache
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.AssemblyInfo.cs
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.csproj.CoreCompileInputs.cache

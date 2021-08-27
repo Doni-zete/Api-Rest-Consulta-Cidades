@@ -7,7 +7,7 @@ namespace series.Interfaces
     List<T> Lista();
     T RetornaPorId(int id);
     void Isere(T entidade);
-    void Exclusive(int id);
+    void Exclui(int id);
     void Atualiza(int id, T entidade);
     int ProximoId();
 
