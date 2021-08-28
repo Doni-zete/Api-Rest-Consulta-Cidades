@@ -18,11 +18,11 @@ namespace series
       listaSerie[id].Excluir();
       //
     }
-    public void Isere(Serie objeto)
+  
+    public void Insere(Serie objeto)
     {
       listaSerie.Add(objeto);
     }
-
     public List<Serie> Lista()
     {
       return listaSerie;

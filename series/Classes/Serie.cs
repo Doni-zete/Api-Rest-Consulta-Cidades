@@ -10,28 +10,28 @@ namespace series
     private string Descricao { get; set; }
     private int Ano { get; set; }
 
-    private bool Excluido {get; set;}
+    private bool Excluido { get; set; }
 
 
     //Metodos
-    public Serie(int id, Genero genero, string titulo, string decricao, int ano)
+    public Serie(int id, Genero genero, string titulo, string descricao, int ano)
     {
       this.Id = id;
       this.Genero = genero;
-      this.Descricao = decricao;
+      this.Descricao = descricao;
       this.Ano = ano;
       this.Excluido = false;
     }
     public override string ToString()
-//Environment.NewLine https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline?view=netcore-3.1
-{
-    string retorno = "";
-    retorno += "Genero: " + this.Genero + Environment.NewLine;
-    retorno += "Título: " + this.Titulo + Environment.NewLine;
-    retorno += "Descrição" + this.Descricao + Environment.NewLine;
-    retorno += "Ano de Início: " + this.Ano;
-    return retorno;
-}
+    //Environment.NewLine https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline?view=netcore-3.1
+    {
+      string retorno = "";
+      retorno += "Genero: " + this.Genero + Environment.NewLine;
+      retorno += "Título: " + this.Titulo + Environment.NewLine;
+      retorno += "Descrição" + this.Descricao + Environment.NewLine;
+      retorno += "Ano de Início: " + this.Ano;
+      return retorno;
+    }
     public string retornaTitulo()
     {
       return this.Titulo;
@@ -41,11 +41,17 @@ namespace series
       return this.Id;
     }
 
-    public void Excluir(){
-      this.Excluido =true;
+    public void Excluir()
+    {
+      this.Excluido = true;
     }
 
     public static implicit operator Serie(SerieRepositotio v)
+    {
+      throw new NotImplementedException();
+    }
+
+    internal void Insere(Serie novaSerie)
     {
       throw new NotImplementedException();
     }
