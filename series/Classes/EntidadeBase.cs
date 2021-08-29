@@ -1,4 +1,4 @@
-namespace series
+namespace Series
 {
     public abstract class EntidadeBase
     {

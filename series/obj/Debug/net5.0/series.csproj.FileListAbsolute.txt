@@ -3,3 +3,14 @@ E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.Gene
 E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.AssemblyInfoInputs.cache
 E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.AssemblyInfo.cs
 E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.csproj.CoreCompileInputs.cache
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\bin\Debug\net5.0\series.exe
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\bin\Debug\net5.0\series.deps.json
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\bin\Debug\net5.0\series.runtimeconfig.json
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\bin\Debug\net5.0\series.runtimeconfig.dev.json
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\bin\Debug\net5.0\series.dll
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\bin\Debug\net5.0\ref\series.dll
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\bin\Debug\net5.0\series.pdb
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.dll
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\ref\series.dll
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.pdb
+E:\FATEC\CURSOS\GITHUB\DIO-SERIES\Dio-series\series\obj\Debug\net5.0\series.genruntimeconfig.cache

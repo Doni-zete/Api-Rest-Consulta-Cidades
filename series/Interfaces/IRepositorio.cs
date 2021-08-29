@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace series.Interfaces
+namespace Series.Interfaces
 {
   public interface IRepositorio<T>
   {
