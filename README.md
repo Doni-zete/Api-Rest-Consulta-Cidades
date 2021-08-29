@@ -5,9 +5,7 @@
 
 ## :rocket: Sobre o projeto
 
-Desenvolvida para fins acadêmicos para aprendizagem do uso do CRUD, no lab da [Digital Innovation One](https://web.digitalinnovation.one/track/everis-fullstack-developer) que consiste na recriação do layout da pagina do NetFlix, envolvendo o conteúdo estudado durante o Bootcamp.
-
- Nesse projeto foi visto como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação, entre outros contéudos.
+Desenvolvida para fins acadêmicos para aprendizagem do uso do CRUD, no lab da [Digital Innovation One](https://web.digitalinnovation.one/track/decola-tech?tab=path). 
 
 
 :hammer_and_wrench: **Tecnologias Utilizadas**
