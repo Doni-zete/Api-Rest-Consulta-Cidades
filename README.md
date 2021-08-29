@@ -11,12 +11,15 @@ Desenvolvida para fins acadêmicos para aprendizagem do uso do CRUD, no lab da [
 
 
 :hammer_and_wrench: **Tecnologias Utilizadas**
-* C#
-*.NET
+*  C#
+* .NET
+* Visual Studio
 
 :arrow_down: **Como baixar o projeto**
+
+  ## `https://github.com/Doni-zete/DioCrud-CadastroDeSeries.git`
 
 * OBS: É necessário ter o git instalado em sua máquina
 * Executar o Seguinte comando no seu **Terminal**  ou no **CMD**:
 
-  ## `git clone https://github.com/Doni-zete/Netflix-Clone.git`
+  
