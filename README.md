@@ -17,9 +17,9 @@ Desenvolvida para fins acadêmicos para aprendizagem do uso do CRUD, no lab da [
 
 :arrow_down: **Como baixar o projeto**
 
-  ## `https://github.com/Doni-zete/DioCrud-CadastroDeSeries.git`
 
 * OBS: É necessário ter o git instalado em sua máquina
-* Executar o Seguinte comando no seu **Terminal**  ou no **CMD**:
+* Executar o Seguinte comando no seu **Terminal**  ou no **CMD**: 
+  ## `https://github.com/Doni-zete/DioCrud-CadastroDeSeries.git`
 
   
